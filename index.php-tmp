@@ -1,0 +1,425 @@
+<html lang="pt-br" itemscope itemtype="https://schema.org/Article">
+<head>
+    <link rel="base" href="http://publisheweb.com.br"/>
+    <title>Conheça a Publishe Web sua Nova Agencia Web</title>
+    <meta charset="UTF-8">
+    <!-- metas seo da pagína-->
+    <meta name="author" href="https://plus.google.com/105879958045370823527">
+    <meta name="date" content="2016-10-29" scheme="2016-MM-DD">
+    <meta name="description" content="Esse Site Esta Sendo Desenvolvido Pela Publishe Web Melhor Agencia De Web">
+    <meta name="image" content="Conheça a Publishe Web sua Nova Agencia Web"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <meta name="robots" content="index,follow"/>
+    <meta name="keywords" content="Criação de Sites, Portais,Loja Virtual">
+    <meta name="geography" content="São Paulo-Brasil">
+    <meta itemprop="name" content="Conheça a Publishe Web sua Nova Agencia WebWeb"/>
+    <meta itemprop="description" content="Esse Site Esta Sendo Desenvolvido Pela Publishe Web Melhor Agencia De Web"/>
+    <meta itemprop="image" content="https://www.publisheweb.com.br/themes/publishe/img/sitekit/index.jpg"/>
+    <meta itemprop="url" content="https://www.publisheweb.com.br"/>
+
+
+
+    <!--fim das metas seo do site-->
+
+    <!--metas facebook-->
+
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Conheça a Publishe Web sua Nova Agencia Web"/>
+    <meta property="og:description" content="Esse Site Esta Sendo Desenvolvido Pela Publishe Web Melhor Agencia De Web"/>
+    <meta property="og:image" content="https://www.publisheweb.com.br/themes/publishe/img/sitekit/index.jpg"/>
+    <meta property="og:url" content="https://www.publisheweb.com.br"/>
+    <meta property="og:site_name" content="Publishe Web"/>
+    <meta property="og:locale" content="pt_BR"/>
+    <meta property="og:app_id" content="517675305100995"/>
+    <meta property="article:author" content="https://www.facebook.com/felipe.ferreiracampos.9"/>
+    <meta property="og:article:publisher" content="https://www.facebook.com/publisheweb"/>
+    <!--fim das metas facebook-->
+
+    <!--inicio das metas do twitter-->
+    <meta property="twitter:card" content="summary"/>
+    <meta property="twitter:site" content="@PublisheWebBr"/>
+    <meta property="twitter:domain" content="www.publisheweb.com.br"/>
+    <meta property="twitter:title" content="Conheça a Publishe Web sua Nova Agencia Web"/>
+    <meta property="twitter:description" content="Esse Site Esta Sendo Desenvolvido Pela Publishe Web Melhor Agencia De Web"/>
+    <meta property="twitter:image:src" content="https://www.publisheweb.com.br/themes/publishe/img/sitekit/index.jpg"/>
+    <meta property="twitter:url" content="https://www.publisheweb.com.br"/>
+    <meta property=”twitter:card” content=”summary” />
+    <!--fim das metas do twitter-->
+
+
+
+    <link rel="shorcut icon" href="img/bg-icone-publishe.png"/>
+    <link rel="author" href="https://plus.google.com/108289759262433735086/posts"/>
+    <link rel="publishe" href="https://plus.google.com/b/105879958045370823527/105879958045370823527/posts/QGErEDVtpsk?pageId=105879958045370823527&hl=pt-BR&lbcont=https://business.google.com/b/105879958045370823527/photos/l/02861134735260579760%3Fhl=pt-BR&_ga=1.148171775.97055620.1456992158&pid=6258084059561664418&oid=105879958045370823527"/>
+    <link rel="canonical" href="http://www.publisheweb.com.br"/>
+
+
+    <link rel="alternate" type="application/rss+xml" href="https://www.publisheweb.com.br/rss.xml"/>
+
+    <link rel="stylesheet" href="css/boot.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <script src="js/jquery.js"></script>
+
+
+<!--[if lt IE 9]
+<script src="js/html5shiv.js"></script>
+[endif]-->
+<!--scripts nav responsivo-->
+</head>
+<body id="home">
+
+    <p class="j_back backtop">Topo</p>
+
+    <header class="main_header container bg-white">
+        <div class="content">
+            <img class="main_header_logo fl-left" title="Publishe Web" alt="[Publishe Web]" src="img/bg-logo2.png"/>
+            <nav>
+                <ul class="main_header_nav fl-right">
+                    <li><a href="#home" title="Publishe Web" class="scroll">Home</a></li>
+                    <li><a href="#sobre" title="Sobre" class="scroll">Sobre</a></li>
+                    <li><a href="#servicos" title="Sites,Loja Virtual,Portal" class="scroll">Serviços</a></li>
+                    <li><a href="#contato" title="Entre em Contato Com a Publishe Web" class="scroll">Contato</a></li>
+                </ul>
+            </nav>
+
+
+            <div  class="clear"></div>
+        </div>
+        <!--menu responviso-->
+        <nav id="menu">
+            <a href="javascript:;" class="close"></a>
+            <ul>
+                <li><a href="#home" title="Publishe Web" class="scroll">Home</a></li>
+                <li><a href="#sobre" title="Sobre" class="scroll">Sobre</a></li>
+                <li><a href="#servicos" title="Sites,Loja Virtual,Portal" class="scroll">Serviços</a></li>
+                <li><a href="#contato" title="Entre em Contato Com a Publishe Web" class="scroll">Contato</a></li>
+            </ul>
+        </nav>
+        <a href="javascript:;" class="menu_btn"></a>
+        <div class="clear"></div>
+
+
+
+        <div class="clear"></div>
+    </div>
+
+
+
+</header>
+<!--menu responviso-->
+
+
+
+<div class="destaque container">
+    <div class="content">
+
+        <h1 class="fontsize1 al-center" style="padding-bottom:30px; margin-top:100px;"><img src="img/bg-logo3.png"></p>
+            <h1 class="fontsize1 al-center">Criação de sites,lojas virtuais e sistemas</p>
+                <h1 class="fontsize6 al-center">Garantia de qualidade e um site ideal para sua empresa</h1>
+                <h1 class="fontsize6 al-center">Especilista em programação web</h1>
+            </div>
+            <div class="clear"></div>
+        </div>
+
+
+
+
+        <main class="container"><!--todo conteudo do site-->
+
+            <section class="container sobre bg-white" id="sobre" itemscope itemtype="https://schema.org/Person">
+                <div class="content">
+
+                    <div class="profile-img">
+                        <img itemprop="image" class="round fl-left boxshadow" src="img/bg-perfil2.jpg" alt="[Felipe Ferreira Campos, Publishe Web]" title="Felipe Ferreira Campos"/>
+                    </div>
+
+
+                    <header>
+                        <div class="profile">
+                            <h1 class="fontsize5">Felipe Ferreira Campos</h1>
+                            <p class="tagline">Tenho 35 anos</p>
+                            <p class="tagline">Tenho um nível intermediário no mercado web trabalho</p>
+                            <p class="tagline">Faço programação para web.</p>
+                            <p class="tagline">Atuo com programação web há 2 anos para pagínas, sistemas, aplicativo mobile para web</p>
+                            <p class="tagline">Front-End e Back-end.</p>
+
+                            <div class="occupation-area">
+                              <h1 class="fontsize5">Programador Front-End Linguagens</h1>
+                              <p class="tagline">Html5,Css3,JavaScript,Jquery</p>
+                              <h1 class="fontsize5">Programador Back-End Linguagens</h1>
+                              <p class="tagline">PHP,NodeJs,AngularJs</p>
+                              <h1>Tecnologia de linguagens</h1>
+                              <p class="tagline">PHP e JavaScript tecnologias que resolvi me dedicar</p>
+                            </div>
+
+                            <ul class="main_bus_person">
+
+                                <li>
+                                    <a itemprop="url" class="boxshadow f" target="_blank" href="https://www.facebook.com/felipe.ferreiracampos.9" title="Felipe Ferreira Campos No Facebook!">Facebook</a>
+                                </li>
+
+                                <li>
+                                    <a itemprop="url" class="boxshadow g" target="_blank" href="https://www.linkedin.com/in/felipef2/" title="Felipe Ferreira Campos No Linkedin">Linkedin</a>
+                                </li>
+                                <li>
+                                    <a itemprop="email" class="boxshadow m" href="mailto:Felipe Ferreira Campos <felipewebsp@gmail.com>" title="Enviar E-mail Para Felipe Ferreira Campos">Email</a>
+                                </li>
+                            </ul>
+
+                        </div><!--profile -->
+                    </header>
+                </section>
+
+
+                <!--container serviços-->
+
+
+                <article class="container servicos  al-center destaque_servico" id="servicos" style="padding-bottom:100px 0;">
+                    <div class="content">
+                        <img src="img/bg-10.png" alt="Serviços" title="Serviços" style="padding-top:150px;">
+                        <h1 class=" al-center fontsize1">Serviços</h1>
+                    </div>
+                </article>
+
+                <section class="container servicos bg-white">
+                    <article class="al-center">
+                        <div class="content" style="padding-bottom: 10px;">
+
+                            <article class="servico box box-small al-center">
+                                <a href="criacao.php"><img src="img/bg-2.png" alt="Criação De Sites" title="Criação De Sites"></a>
+                                <h1 class="al-center fontsize5">Criação de sites</h1>
+                                <p class="tagline">Desenvolvimento de sites,blogs,portais,e-commerce(loja Virtual) atualmente otimizado com seo,o site da sua empresa em
+                                destaque nas redes sociais.
+                                </p>
+                            </article>
+
+
+                            <article class="servico box box-small al-center">
+                                <img src="img/bg-31.png" alt="Criação de sistema" title="Criação de Sistema">
+                                <h1 class="al-center fontsize5">Criação de sistema</h1>
+                                <p class="tagline">Temos diversos sistemas a oferecer, sendo eles, sistema de gerenciamento de notícias, gerenciamento de conteúdo de site,estoque,reservas.</p>
+                            </article>
+
+
+
+
+
+                            <article class="servico  box box-small al-center">
+                                <img src="img/bg-11.png" alt="Mobile" title="Mobile">
+                                <h1 class="al-center fontsize5">Mobile</h1>
+                                <p class="tagline">Aplicação para android</p>
+                                <p class="tagline">Sua empresa poder ser acessada através de uma tela de um celular. tablets, smartphones,até mesmo TV Monitor 4K.</p>
+                            </article>
+
+
+
+                            <article class="servico  box box-small al-center">
+                               <img src="img/bg-14.png" alt="Loja Virtual" title="Loja Virtual">
+                               <h1 class="al-center fontsize5">Loja Virtual</h1>
+                               <p class="tagline">Com integração às redes sociais Integre sua loja às maiores das redes sociais.</p>
+                               <p class="tagline">Loja Virtual 100% com pagseguro.</p>
+                            </article>
+                            <div class="box-line"></div>
+                        </div>
+                        <div class="clear"></div>
+                    </section>
+
+
+
+                <article class="newsletter container" style="padding:10px 0;">
+                        <div class="content">
+                            <h1 class="fontsize6 al-center" style="padding-bottom:10px;">Receba novidades da Publishe Web Informe seu nome e email !</h1>
+                            <div id="msg_retorno_news" class="msg_retorno"></div>
+
+                            <form class="contato" name="news" method="post">
+                                <input type="email" name="email_news" placeholder="Informe seu E-mail:" required/>
+                                <input type="text" name="nome_news" placeholder="Informe seu Nome:" required/>
+
+                                <input type="hidden" name="action" value="send_news">
+                                <img class="form_load_data" title="Aguarde, Enviando seus dados!" alt="[Aguarde, Enviando Dados !]" src="img/ajax-loader.gif"/>
+
+                                <input type="submit" class="btn-blue" value="Enviar"/>
+                            </form>
+                            <div class="newsletter_icon"></div>
+                            <div class="clear"></div>
+                        </div>
+                    </article>
+                    <article class="container bg-lightgreen al-center" style="padding-top:25 0px;">
+                        <h2 class="fontsize5">Compartilhe a publishe web nas redes sociais</h2>
+                    </article>
+              </article>
+
+
+<ul class="sharebox ">
+    <li class="like facebook">
+        <span class="count">0</span>
+        <a href="http%3A%2F%2Fpublisheweb.com.br&app_id=1645688398824202" title="Compartilhe no Facebook">
+            Compartilhe no Facebook
+        </a>
+    </li>
+    <li class="like google">
+        <span class="count">0</span>
+        <a href="http://publisheweb.com.br" title="Recomende no Google+">
+            Recomende no Google+
+        </a>
+    </li>
+    <li class="like twitter">
+        <span class="count">2</span>
+        <a href="http%3A%2F%2Fpublisheweb.com.br" rel="&text=Conheça a Publishe Web sua Nova Agencia Web PublisheWebBr" title="Conte Isto no Twitter">Conte Isto no Twitter
+        </a>
+    </li>
+</ul>
+                       <!--  <ul class="sharebox">
+                            <li class="like facebook"><span class="count">0</span> <a href="https://www.facebook.com/publisheweb/?fref=ts" rel="nofollow" title="Compartilhe no Facebook">Compartilhe no Facebook</a>
+                            <li>
+
+                            <li class="like google"><span class="count">0</span> <a href="https://plus.google.com/u/0/b/105879958045370823527/105879958045370823527/posts" rel="nofollow" title="Recomende no Google+">Recomende no Google+</a>
+                            </li>
+
+                            <li class="like twitter"><span class="count">0</span>
+                                <a href="https://twitter.com/PublisheWebBr" rel="nofollow" title="Conte Isto no Twitter">Conte Isto no Twitter</a>
+                            </li>
+                        </ul>
+ -->
+
+                <article class="contato container destaque_contato al-center" id="contato" style="padding-top:130px;"></style>
+                    <div class="content">
+                        <img src="img/bg-29.png" alt="Entre em Contato" title="Entre em Contato">
+                        <h1 class="fontsize1 al-center">Contato</h1>
+                        <h1 class="fontsize6 al-center">Entre em contato e solicite um orçamento para seu projeto.</h1>
+                        <h1 class="fontsize6 al-center">Estarei inteiramente a disposição e responderei o mais breve possível.</h1>
+                    </div>
+                </article>
+
+
+                <!-- FORM DE CONTATO -->
+                <section class="form container bg-white"  style="padding:50px 0;"></style>
+                    <div id="msg_retorno" class="msg_retorno"></div>
+                    <article class="contato">
+                        <div class="content">
+                            <form class="contato_form j_formsubmit al-center" action="" method="post" name="frm_contact" enctype="multipart/form-data">
+                                <label class="large">
+                                    <span>Nome:</span>
+                                    <input type="text" name="nome" title="Informe Seu Nome!" placeholder="Informe Seu Nome:" required/>
+                                </label>
+
+                                <label class="large">
+                                    <span>E-mail:</span>
+                                    <input type="email" name="email" title="Informe Seu Email" placeholder="Informe Seu E-mail:" required/>
+                                </label>
+
+                                <label class="large">
+                                    <span>Telefone:</span>
+                                    <input type="telefone" name="telefone" title="Informe Seu Telefone" placeholder="Informe Seu Telefone:" required/>
+                                </label>
+
+                                <label class="large">
+                                    <span>Serviço Desejado</span>
+                                    <select name="servico" required title="Favor Selecione o Projeto!">
+                                        <option  selected="selected">Serviço Desejado</option>
+                                        <option value="sites">Sites</option>
+                                        <option value="loja virtual">Loja Virtual</option>
+                                        <option value="email marketing">Email-Marketing</option>
+                                        <option value="Logotipo">Logotipo</option>
+
+                                    </select>
+                                </label>
+
+
+                                <label>
+                                    <span>Mensagem:</span>
+                                    <textarea rows="15" name="mensagem" title="Deixe sua Mensagem!" placeholder="Deixe sua Mensagem:" required=""></textarea>
+                                </label>
+
+                                <img class="form_load" title="Aguarde, Enviando Contato!" alt="[Aguarde, Enviando Contato!]" src="img/ajax-loader.gif"/>
+
+                                <input type="hidden" name="action" value="envia_mail">
+
+                                <button class="btn ajaxbtn">Enviar Contato!</button>
+
+                            </form>
+                        </div>
+                        <div class="clear"></div>
+                    </article>
+                </section>
+
+            </main><!--fecha todo o conteudo do site-->
+
+
+            <footer class="container bg-gray"><!--abre o rodape-->
+
+                <div class="content">
+                    <h1 class="fontsize4 al-center" style="padding-top:10px;">Fale Comigo</h1>
+
+                    <article class="informacao" style="padding:60px 0;">
+                        <article class="box box-small al-center">
+                            <img src="img/bg-19.png" alt="Email" title="Email">
+                            <h1 class="fontsize3 al-center">E-mail</h1>
+                            <p class="tagline2">felipewebsp@gmail.com</p>
+
+                        </article>
+
+                        <article class="box box-small al-center">
+                            <img src="img/bg-20.png" alt="Whatsapp" title="Whatsapp">
+                            <h1 class="fontsize3 al-center">Whatsapp</h1>
+                            <p class="tagline2">11-98456-2296</p>
+
+                        </article>
+
+                        <article class="box box-small al-center">
+                            <img src="img/bg-22.png" alt="Skype" title="Skype">
+                            <h1 class="fontsize3 al-center">Skype</h1>
+                            <p class="tagline2">felipe_ferreira_campos</p>
+                        </article>
+
+                        <article class="box box-small al-center">
+                            <img src="img/bg-21.png" alt="Web Site" title="Web Site">
+                            <h1 class="fontsize3 al-center">Linkedin</h1>
+                            <p class="tagline2">Felipe Ferreira Campos</p>
+                        </article>
+                        <div class="clear"></div>
+                    </article>
+                </div>
+            </article>
+            <article class="container main_footer al-center bg-darkgray" style="padding-top:10px;">
+                <div class="content">
+                    <ul class="main_footer_social">
+                        <li>
+                            <a class="twitter" target="_blank" href="https://twitter.com/PublisheWebBr" title="Publishe Web no Twitter">
+                                <img src="img/social_twitter.png" alt="Publishe Web no Twitter" title="Publishe Web no Twitter"/></a>
+                            </li>
+
+                            <li>
+                                <a class="google" target="_blank" href="https://plus.google.com/u/0/b/105879958045370823527/105879958045370823527" title="Publishe Web no Google+">
+                                    <img src="img/social_google.png" alt="Publishe no Google +" title="Publishe no Google +"/>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a class="facebook" target="_blank" href="https://www.facebook.com/publisheweb/?fref=ts" title="Publishe Web no Facebook">
+
+                                    <img src="img/social_facebook.png" alt="Publishe Web no Facebook" title="Publishe Web no Facebook"/>
+                                </a>
+                            </li>
+                        </ul>
+                    </article>
+
+                    <div class="clear"></div>
+
+                </div>
+
+
+            </footer><!--fecha o rodape-->
+
+            <script src="js/jquery-3.1.1.min.js"></script>
+            <script src="js/jmask.js"></script>
+            <script type="text/javascript" src="js/respNav.js"></script>
+            <script src="_cdn/sharebox.js"></script>
+            <script src="js/scripts.js"></script>
+
+        </body>
+        </html>
+

@@ -1,0 +1,1340 @@
+/* RESET CSS */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato';
+    box-sizing: border-box;
+    -webkit-box-sizing:border-box;
+}
+body{
+
+}
+select{padding: 15px; border: 1px #333 solid; width: 100%; background-color:#FFF; color:#888;}
+
+.h1{font-size:1em; color:#000;}
+.h2{font-size:0.8em; color:#222; margin-bottom:5px;}
+.h3{font-size:1.2em; color:#555;}
+.h4{font-size:1.2em; color:#000;}
+img,
+object,
+embed,
+video,
+iframe,
+iframe[style]{
+    max-width:100%;
+    height:auto;   
+}
+
+fieldset{border: 0;}
+input,
+select,
+textarea{padding: 20px; width: 100%;}
+input.btn{width: auto; cursor: pointer; font-size:1.2em}
+
+
+.style{
+    padding-left:50px;
+}
+
+
+
+.main_header_fixed{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(255, 255,255, 0.8);
+    border-bottom: 2px solid #ccc;
+    z-index: 99;
+}
+
+.newsletter{
+    padding:25px;  
+    background-color:#6a5acd;   
+    text-align: center;
+    position: relative;
+    color: #f9f;
+}
+
+.newsletter h1{
+    font-size: 1.5em;
+    font-weight:300;
+    margin-bottom:20px;
+}
+
+.newsletter form{
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+.newsletter input[type="email"]{
+    float: left;
+    width: 30%;
+    border: none;
+    padding:17px;
+    -webkit-appearance: textfield;
+    font-size:1.2em;
+
+
+}
+.newsletter input[type="text"]{
+    width: 30%;
+    border: none;
+    padding:17px;
+    -webkit-appearance: textfield;
+    font-size:1.2em;
+}
+
+.newsletter input[type="submit"]{
+    float:right;
+    width: 30%;
+    background:#4D39BB;
+    border: none;
+    font-size:1.2em;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    padding:15px;
+    border-radius:5px;
+    border-bottom: 5px solid #40309C;
+}
+
+.newsletter input:hover[type="submit"] {
+    background-color:#69AFDE;
+}
+
+
+
+.contato_form.btn:hover{
+    background:#51C1D9;
+}
+
+.newsletter_icon{
+    width: 54px;
+    height: 54px;
+    background:#6a5acd url(../img/newsletter.png) center center no-repeat;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-top: -24px;
+    margin-left: -27px;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+.backtop{
+    position:fixed;
+    display:none; 
+    cursor:pointer;bottom:25px;
+    right:25px;
+    text-transform:uppercase;
+    color:#fff; 
+    font-size:0.8em; 
+    color:#fff;
+    padding:15px;
+    background:rgba(0,0,0,0.5);
+}              
+.backtop:hover{
+    background:#09f;
+}
+
+.fale_conosco{
+ padding:20px 0;
+}
+
+
+.sobre{
+    padding-bottom:20px;
+}
+
+.main_header{
+    width:100%;
+    margin:0 auto;
+}
+.paragrafo{
+    padding:10px 15px;
+}
+
+
+
+
+/*FORMATAÃƒâ€¡ÃƒÆ’O DA LOGO*/
+.main_header_logo{ 
+    position:relative; 
+    float:left; 
+    height:70px;
+    max-width:128px;
+    background-size:100% auto; 
+    margin-bottom:1%;
+}
+.main_header_logo a{ 
+    float:left; 
+    width:128px; 
+    height:70px; 
+    background:url(../img/bg-logo5.png)center center no-repeat;
+    background-size:100% auto;
+}
+/*FORMATAÃƒâ€¡ÃƒÆ’O DO MENU PRINCIPAL*/
+.main_header_nav{
+    width:100%; 
+    width:auto;
+    margin-right:190px;
+    float:left;
+}
+.main_header_nav li{
+    float:left; 
+    position:relative; 
+    list-style:none;
+    font-family:'Lato';
+}
+.main_header_nav a{
+    float:left;
+    padding:24px 15px; 
+    color:#777;  
+    text-decoration:none; 
+    font-size:1.1em;
+    
+}
+.main_header_nav a:hover{
+    border:#fff; 
+    text-decoration:underline;
+}
+
+.title-section{
+    font-size: 1.125em;
+    font-weight: 300;
+    color: #555;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #555;
+}
+
+
+/*FORMATAÃƒâ€¡ÃƒÆ’O DA BANNER*/
+
+.destaque{
+    background-color:#000;
+    background-image: url(../img/bg-02.jpg);
+    background-size: cover;width:100%;
+    height:700px;
+    background-attachment:fixed;
+    background-position:relative;
+    color:#fff;
+
+}
+
+
+.destaque_servico{
+    background-color:#000;
+    background-image: url(../img/bg-cover.jpg);
+    background-size: cover;width:100%;
+    height:500px;
+    background-attachment:fixed;
+    background-position:relative;
+    color:#fff;
+
+}
+.destaque_solucoes{
+    background-color:#000;
+    background-image: url(../img/bg-cover2.jpg);
+    background-size: cover;width:100%;
+    height:500px;
+    background-attachment:fixed;
+    background-position:relative;
+    color:#fff;
+
+}
+.destaque_contato{
+    background-color:#000;
+    background-image: url(../img/bg-cover1.jpg);
+    background-size: cover;width:100%;
+    height:500px;
+    background-attachment:fixed;
+    background-position:relative;
+    color:#fff;
+
+}
+
+.destaque_quemsomos{
+    background-color:#000;
+    background-image: url(../img/bg-cover4.jpg);
+    background-size: cover;width:100%;
+    height:500px;
+    background-attachment:fixed;
+    background-position:relative;
+    color:#fff;
+
+}
+.destaque_marketing{
+    background-color:#000;
+    background-image: url(../img/bg-cover3.jpg);
+    background-size: cover;width:100%;
+    height:500px;
+    background-attachment:fixed;
+    background-position:relative;
+    color:#fff;
+
+}
+.destaque_sobre{
+    background-color:#000;
+    background-image: url(../img/bg-02.jpg);
+    background-size: cover;width:100%;
+    height:500px;
+    background-attachment:fixed;
+    background-position:relative;
+    color:#fff;    
+}
+
+.destaque_footer{
+    background-color:#000;
+    background-image: url(../img/bg-02.jpg);
+    background-size: cover;width:100%;
+    height:500px;
+    background-attachment:fixed;
+    background-position:relative;
+    color:#fff;
+
+}
+/*CriaÃ§Ã£o*/
+
+
+
+
+
+/*FORMATAÃƒâ€¡ÃƒÆ’O DO SERVIÃƒâ€¡O*/
+
+.servico{
+    padding: 25px 30px; 
+    margin-bottom:30px; 
+    min-height:380px;
+    padding-top:10px;
+}
+.servico_item img{
+    padding: 25px; 
+    width:80%; 
+    margin: 0 10%; 
+    background: #eee; 
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%; 
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+.servico_item h1{
+    font-size:1.4em; 
+    margin-bottom: 15px;
+    margin-top:20px;
+}
+.servico_item .tagline{
+    font-size: 1em;
+}
+
+.link{
+    text-decoration:none; 
+    color:#fff;
+}
+.link a{
+    font-family:lato;
+}
+
+/*FORMATAÃƒâ€¡ÃƒÆ’O DO CONTATO*/
+
+.contato{
+    width:100%; 
+    float:left;
+}
+.contato header{
+    float:left;
+    width:30%;
+}
+.contato_header_h1{
+    font-size:3em;
+    text-transform:uppercase;
+    color:#888;
+    margin-bottom:20px;
+}
+.contato header{
+    color:#555;
+}
+.contato_form{
+    float:right;
+    width:100%;
+    padding-left:5%;
+}
+.contato_form label{
+    display:block;
+    width:100%;
+    margin-bottom:20px;
+}
+.contato_form span{
+    font-size:1em;
+    display:block;
+    text-transform:uppercase;
+    font-weight:600;
+    margin-bottom:10px;
+    float:left;
+}
+.contato_form .medium{
+    float:left;width:48%;
+}
+.contato_form .large{
+    float:left;width:100%;
+}
+.contato_form .medium:first-of-type{
+    margin-right:4%;
+}
+.contato_form input,
+.contato_form textarea{
+    width: 100%;
+    border:none;
+    background:#fff;
+    padding:15px;
+    border: 1px solid #333333;
+    font-family:'Lato';
+    font-size:1.2em;
+}
+.contato_form .btn{
+    border:none;
+    background:#40309C;
+    padding:20px 25px;
+    text-transform:uppercase;
+    font-weight:600;
+    font-size:0.875em;
+    float:right;
+    margin:10px;
+    border-radius:3px;
+    cursor:pointer;
+    color:#fff;
+}
+
+.contato_form .btn:hover{
+    background:#51C1D9;
+}
+
+/*CONTATO AJAX*/
+.form .msg_retorno{
+    position: relative;
+    width: 80%;
+    margin: 0 10%;
+    padding: 10px;
+    float: left;
+}
+.form .box_msg{
+    width: 90%;
+    margin: 0 5%;
+    font-size: 1em;
+    position: relative;
+    background: #9EBBD5;
+    position: relative;
+    float: left;
+    color: #6A6C6D;
+    padding: 10px 25px;
+}
+
+
+.newsletter .box_msg {
+    width: 90%;
+    margin: 0 5% 30px 5%;
+    font-size: 1em;
+    position: relative;
+    background: #e6d88b;
+    position: relative;
+    float: left;
+    color: #4b5052;
+    padding: 10px 25px;
+}
+
+.form_load_data{
+    float:right;
+    margin-top:25px;
+    margin-left:20px;
+    display:none;
+}
+
+
+.form .box_msgerro{
+    width: 90%;
+    margin: 0 5%;
+    font-size: 1em;
+    position: relative;
+    background: #D3B26A;
+    position: relative;
+    float: left;
+    color: #6A6C6D;
+    padding: 10px 25px;
+}
+
+.form_load{
+    float:right;
+    margin-top:25px;
+    margin-left:20px;
+    display:none;
+}
+
+.main_footer_social{
+    float: left;
+    width: 100%;
+    margin-bottom:20px;
+}
+
+.main_footer_social li{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.main_footer_social a{
+    float: left;
+    padding: 10px;
+    background: #fff;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    transition:color 0.5s, background 0.5s;
+}
+
+.main_footer_social .twitter:hover{
+    background: #00B5E1;
+}
+.main_footer_social .facebook:hover{
+    background: #255C95;
+}
+.main_footer_social .google:hover{
+    background: #F1403A;
+}
+
+.main_footer_top{
+    float:left;
+    width: 100%;
+    margin-bottom:20px;
+}
+
+.main_footer_top li{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.main_footer_top a{
+    float: left;
+    padding: 10px;
+    background: #fff;
+    border-radius:120%;
+    -moz-border-radius:120%;
+    -webkit-border-radius:120%;
+}
+
+.main_footer_top a:hover{
+    background: #007FFF;
+}
+
+.sharebook{float: left; width: 100%; background: #333; text-align: center; padding: 20px;}
+.sharebook .like{display: inline-block; min-width: 20%; position: relative; margin: 0 1%; background: #069; color: #fff; font-size: 0.7em; text-transform: uppercase;}
+.sharebook .like a{float: left; color: #fff; width: 100%; padding: 60px 20px 20px 20px; background-repeat: no-repeat; background-position: top 20px center;}
+.sharebook .like a span{display: block;}
+.sharebook .like .count{position: absolute; top: 0; left: 0; padding: 5px 10px; background: rgba(0,0,0,0.5);}
+
+.sharebook .facebook a{background-image: url(../img/social_facebook.png); background-color: #3B5998;}
+.sharebook .facebook a:hover{background-color: #7A95CB;}
+.sharebook .google a{background-image: url(../img/social/share_google.png); background-color: #D73D32;}
+.sharebook .google a:hover{background-color: #E7867E;}
+.sharebook .twitter a{background-image: url(../img//social_twitter.png); background-color: #54A4D6;}
+.sharebook .twitter a:hover{background-color: #81C1E9;}
+
+.sharemin{float: left; width: 100%; padding: 20px; background: #fff;}
+.sharemin .sharebook{background: none; margin: 0 !important; padding: 0;}
+.sharemin .like{float: left; text-align: left; width: 100%; background: none; margin: 0 !important;}
+.sharemin .like .count{position: relative; text-align: center; width: 20%; float: left; padding: 10px;}
+.sharemin  .like a{width: 80%; padding: 10px; background-image: none;}
+.sharemin  .like a span{display: inline;}
+
+.sharemin .facebook{background-color: #3B5998;}
+.sharemin .google{background-color: #D73D32;}
+.sharemin .twitter{background-color: #54A4D6;}
+
+.main_bus_person
+{
+    text-align: center;
+}
+
+/*256EM = 4096PX = 4K*/
+@media(max-width:256em){
+    #menu{
+        display:none;
+    }
+
+    .main_bus_person{margin:40px 0 0;width: 100%;height: auto;float: left;}
+
+    .main_bus_person li{display: inline-block;position: relative;float: left;margin-right: 15px;}
+
+    .main_bus_person a{margin:10px 0 ;min-width: 120px; padding: 10px 15px; background: #fff; color: #34495e; text-decoration:none;float: left;}
+    .main_bus_person a:hover{background:#004799; color: #fff;}
+}
+
+/*100EM = 1600PX*/
+@media(max-width:100em){
+ .main_header{
+    width:100%;
+}
+.main{
+    width:100%;
+}
+.main_content{
+ width:100%;
+}
+.main_header_logo{
+    width:30%;
+}
+.main_middle{
+    width:100%;
+}
+.contato_width{
+    width:100%;
+}
+#menu{
+    display:none;
+}
+
+.main_bus_person{margin:40px 0 0;width: 100%;height: auto;float: left;}
+
+.main_bus_person li{display: inline-block;position: relative;float: left;margin-right: 15px;}
+
+.main_bus_person a{margin:10px 0 ;min-width: 120px; padding: 10px 15px; background: #fff; color: #34495e; text-decoration:none;float: left;}
+.main_bus_person a:hover{background:#004799; color: #fff;}
+
+}
+/*85EM = 1366PX*/
+@media(max-width:85em){   
+
+    #menu{
+       display: none;
+   }
+
+   .newsletter{
+    padding:25px;  
+    background-color:#6a5acd;    
+    text-align: center;
+    position: relative;
+    color: #f9f;
+}
+
+.main_bus_person{margin:40px 0 0;width: 100%;height: auto;float: left;}
+
+.main_bus_person li{display: inline-block;position: relative;float: left;margin-right: 15px;}
+
+.main_bus_person a{margin:10px 0 ;min-width: 120px; padding: 10px 15px; background: #fff; color: #34495e; text-decoration:none;float: left;}
+.main_bus_person a:hover{background:#004799; color: #fff;}
+
+}
+
+
+
+/*80EM = HD 1280PX*/
+@media(max-width:80em){
+
+    .main{
+        width:100%;
+    }
+
+    .fontsize1{ font-size:1.6em; font-family:'Lato';color:#fff;}
+
+
+    .main_header_nav{
+        width:100%;    
+    }
+
+    .newsletter{
+        padding:25px;  
+        background-color:#6a5acd;    
+        text-align: center;
+        position: relative;
+        color: #f9f;
+    }
+
+
+    .newsletter form{
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    /*AQUI PROFILE DESKTOP*/
+    /*.profile
+    {
+        width: 50%;
+        padding: 0 40px;
+        float: left;
+        height: auto;
+        }*/
+
+    /*.main_bus_person
+    {
+        background-color: red;
+        width: 100%;
+        height: auto;
+        float: left;
+        margin: 40px 0;
+    }
+
+    .main_bus_person li
+    {
+        list-style: none;
+        display: inline-block;
+        background-color: #FFF;
+        float: left;
+        margin-right: 15px;
+        }*/
+
+    /*.main_bus_person li a
+    {
+        text-decoration: none;
+        background-color: #FFF;
+        padding: 10px 25px;
+        float: left;
+        }*/
+
+        .main_bus_person{margin:40px 0 0;width: 100%;height: auto;float: left;}
+
+        .main_bus_person li{display: inline-block;position: relative;float: left;margin-right: 15px;}
+
+        .main_bus_person a{margin:10px 0 ;min-width: 120px; padding: 10px 15px; background: #fff; color: #34495e; text-decoration:none;float: left;}
+        .main_bus_person a:hover{background:#004799; color: #fff;}
+
+    }
+
+    /*1080*/
+    @media(max-width:67.5em){
+        .main_bus_person li{margin-right: 8px;}
+        .main_bus_person a{margin:10px 0 ;min-width: 100px; }
+
+    }
+
+    /*1024*/
+    /*60EM = 960PX */
+    @media(max-width:60em){
+
+
+
+        .main{
+            width:100%;
+        }
+
+        .newsletter form{
+            width: 100%;
+            margin: 0 auto;
+        }
+
+
+        .newsletter{
+            padding:25px;  
+            background-color:#6a5acd;    
+            text-align: center;
+            position: relative;
+            color: #f9f;
+        }
+
+        .main_header_nav{
+            width:100%; 
+            display: none;
+        }
+
+
+        .menu_btn{
+            background:#6A5ACD url(../img/menu_bg.png) center center no-repeat;
+            display:block;
+            height:42px;
+            width:42px;
+            position:absolute;
+            top:45px;
+            right:30px;       
+        }
+        #menu{
+            height:100%;
+            position:fixed;
+            background-color: rgba(128, 115, 223, 0.9); 
+            top:0;
+            bottom:0;
+            height:100%;
+            width:240px;
+            right:-240px;
+            z-index:9999; 
+            display: inline;    
+        }
+        #menu ul{ 
+            padding:0;   
+            margin:0; 
+            list-style:none; 
+            color:white;  
+        }
+        #menu ul li{
+            height:47px;
+            padding-left:30px;
+            line-height:47px;    
+            border-bottom:1px solid #004799; 
+        } 
+        #menu ul li.active {
+            background:#004799; 
+        }
+        #menu ul li:hover {
+            background:#00254F;
+        }
+        #menu ul li a {
+            color:white;
+            text-decoration:none;
+            font-family:'Lato', sans-serif;
+            font-size:16px;display:block;        
+        }
+        .close{
+            display:block; 
+            background:#6A5ACD url(../img/croix.png) center center no-repeat;
+            height:47px;
+            width:47px;
+            position:absolute;
+            top:0;
+            left:-47px; 
+        }
+        .contato_form{
+            float:right;
+            width:100%;
+        }
+        .contato_form .medium{
+            float:left;
+            width:100%;
+        }
+
+        .form_load{
+            width:100%;
+        }
+
+        .contato_form .btn{
+            border:none;
+            background:#40309C;
+            padding:15px 25px;
+            width:98%;
+            text-transform:uppercase;
+            font-weight:600;
+            font-size:0.875em;
+            float:right;
+            margin:10px;
+            cursor:pointer;
+            color:#fff;
+        }
+        .servico {
+            padding:0;
+            width:100%;
+            margin-bottom:0;
+            min-height: 280px;
+        }      
+        .empresa{
+            width:100%;
+        }
+
+            /*.profile-img
+            {
+                float: left;
+                position: relative;
+                width: 100%;
+                margin: 20px auto;
+            }
+
+            .profile-img img
+            {
+                float: left;
+                position: relative;
+                left: 140px;
+
+                }*/
+
+                .main_bus_person li{margin-right: 8px;}
+                .main_bus_person a{margin:10px 0 ;min-width: 100px; }
+
+
+
+            }
+
+
+
+
+/*
+48EM =768PX
+*/
+@media(max-width:48em){
+    /*serviÃƒÂ§os*/
+    
+    /*SHAREBOX*/
+    .sharebox{float: left; width: 100%;  text-align: center; padding-top:30px; }
+    .sharebox li{display:inline-block; margin-bottom:5px; background: #ccc; margin:20 40px; background-position: left 10px center; background-repeat: no-repeat; background-size: auto 30%;}
+    .sharebox a{ font-size:0.8em; float: left; text-decoration:none; padding: 2px 2px 20px 20px; color: #fff !important;}
+    .sharebox a:hover{text-decoration: none !important;}
+    .sharebox .count{float: right; background: rgba(0,0,0,0.5); padding: 10px 20px; color: #fff;}
+
+    .sharebox .facebook{width:80%;}
+    .sharebox .facebook a{padding:4% 0 0 40px;}
+    .sharebox .google{width:80%;}
+    .sharebox .google a{padding:4% 0 0 40px;}
+    .sharebox .twitter{width:80%;}
+    .sharebox .twitter a{padding:4% 0 0 40px;}
+
+
+    .newsletter{
+        padding:25px;  
+        background-color:#6a5acd;    
+        text-align: center;
+        position: relative;
+        color: #f9f;
+    }
+
+    .box-small {
+        width:100%;
+        margin-right:5%;
+    }
+    .servico {
+        padding: 0;
+        width:100%;
+        margin-bottom:0;
+        min-height: 280px;
+    }      
+    /*fim serviÃƒÂ§os*/
+
+    .main_header_logo{
+        width:100%;
+    }
+
+    .contato_header_h1{
+        font-size:3.2em;
+        text-transform:uppercase;
+        color:#888;
+        margin-bottom:20px;
+    }
+
+    .main_header_nav{
+        width:100%;
+        display:none;
+    }
+
+    .newsletter h1{
+        font-size: 1.2em;
+        font-family:'Lato';
+        margin-bottom:20px;
+    }
+
+    .newsletter form{
+        width: 100%;
+        margin: 0 auto;
+
+    }
+
+    .newsletter input[type="email"]{
+        width: 100%;
+        border: none;
+        margin-bottom:5px!important;
+    }
+    
+	.newsletter input[type="text"]{
+        width: 100%;
+        border: none;
+        margin-bottom:5px!important;
+}
+
+    .newsletter input[type="submit"]{
+        width: 100%;
+        background:#4D39BB;
+        border: none;
+        font-size: 1em;
+        text-transform: uppercase;
+        color: #fff;
+        font-weight: bold;
+        cursor: pointer;
+        margin-bottom:5px;
+    }
+
+    .profile-img
+    {
+        float: left;
+        position: relative;
+        width: 100%;
+        margin: 20px auto;
+    }
+
+    .profile-img img
+    {
+        float: left;
+        position: relative;
+        left: 130px;
+
+    }
+
+    .profile  {width:100%;float:left;margin-left: 60px;}
+    .main_bus_person li{margin-right: 8px;}
+    .main_bus_person a{margin:10px 0 ;min-width: 110px; }
+
+}
+
+/*37EM = 592PX*/
+
+@media(max-width:37em){
+    /*serviÃƒÂ§os*/
+    .box-small {
+        width: 100%;
+        margin-right:3%;
+    }
+    .servico {
+        padding: 0;
+        margin-bottom:0;
+        min-height:280px;
+    }
+    /*fim serviÃƒÂ§os*/
+
+
+    .fontsize2{ 
+        font-size:1.2em; 
+        font-family:'Lato';
+        color:#000;
+    }
+
+    .contato_form{
+        float:right;
+        width:100%;
+    }
+    .contato_form .medium{
+        float:left;
+        width:100%;
+    }
+
+    .form_load{
+        width:100%;
+    }
+
+    .contato_form .btn{
+        border:none;
+        background:#40309C;
+        padding:15px 25px;
+        width:96%;
+        text-transform:uppercase;
+        font-weight:600;
+        font-size:0.875em;
+        float:right;
+        margin:10px;
+        cursor:pointer;
+        color:#fff;
+    }
+
+    .contato_header_h1{
+        font-size:2.2em;
+        text-transform:uppercase;
+        color:#888;
+        margin-bottom:20px;
+    }
+    .newsletter h1{
+        font-size: 1.5em;
+        margin-bottom:20px;
+    }
+
+    .newsletter form{
+        width: 100%;
+        margin: 0 auto;
+
+    }
+
+    .newsletter input[type="email"]{
+
+        width: 100%;
+        border: none;
+
+
+    }
+    .newsletter input[type="nome"]{
+        width: 100%;
+        border: none;
+
+    }
+
+    .newsletter input[type="submit"]{
+
+        width: 100%;
+        background:#4D39BB;
+        border: none;
+        font-size: 1em;
+        text-transform: uppercase;
+        color: #fff;
+        cursor: pointer;
+        margin-bottom:5px;
+    }
+
+
+    /*SHAREBOX*/
+    .sharebox{float: left; width: 100%;  text-align: center; padding-top:30px; }
+    .sharebox li{display:inline-block; margin-bottom:5px; background: #ccc; margin:20 40px; background-position: left 10px center; background-repeat: no-repeat; background-size: auto 30%;}
+    .sharebox a{ font-size:0.8em; float: left; text-decoration:none; padding: 2px 2px 20px 20px; color: #fff !important;}
+    .sharebox a:hover{text-decoration: none !important;}
+    .sharebox .count{float: right; background: rgba(0,0,0,0.5); padding: 10px 20px; color: #fff;}
+
+    .sharebox .facebook{width:80%;}
+    .sharebox .facebook a{padding:4% 0 0 40px;}
+    .sharebox .google{width:80%;}
+    .sharebox .google a{padding:4% 0 0 40px;}
+    .sharebox .twitter{width:80%;}
+    .sharebox .twitter a{padding:4% 0 0 40px;}
+
+    .profile-img
+    {
+        float: left;
+        position: relative;
+        width: 100%;
+        margin: 20px auto;
+    }
+
+    .profile-img img
+    {
+        float: left;
+        position: relative;
+        left: 40px;
+
+    }
+
+    .profile  {width:100%; padding-left:0; float:left;margin-left: 60px;}
+    .main_bus_person li{margin-right: 8px;}
+    .main_bus_person a{margin:10px 0 ;min-width: 110px; }
+
+}
+/*480PX BREAKPOINT*/
+@media (max-width: 30em){
+    /*serviÃƒÂ§os*/    
+
+    .box-small {
+        width: 100%;
+        margin-right:3%;
+    }
+    .servico{
+        padding:0;
+        margin-bottom:0;
+        min-height:280px;
+    }
+
+    .main_header_logo{
+        width:100%;
+    } 
+    .contato{
+        width:100%; 
+        float:left;
+    }
+
+    /*fim serviÃƒÂ§os*/
+    .contato_form{
+        float:right;
+        width:100%;
+    }
+    .contato_form .medium{
+        float:left;
+        width:100%;
+    }
+
+    .form_load{
+        width:100%;
+    }
+
+    .contato_form .btn{
+        border:none;
+        background:#40309C;
+        padding:15px 25px;
+        width:96%;
+        text-transform:uppercase;
+        font-weight:600;
+        font-size:0.875em;
+        text-align:center;
+        margin:10px;
+        cursor:pointer;
+        color:#fff;
+    }
+
+
+
+    .empresa{
+        width:100%;
+    }
+
+
+    .contato_header_h1{
+        font-size:2.2em;
+        text-transform:uppercase;
+        color:#888;
+        margin-bottom:20px;
+    }
+
+    .newsletter h1{
+        font-size: 1.5em;
+        margin-bottom:20px;
+    }
+
+    .newsletter form{
+        width: 100%;
+        margin: 0 auto;
+
+    }
+
+    .newsletter input[type="email"]{
+
+        width: 100%;
+        border: none;
+
+
+    }
+    .newsletter input[type="nome"]{
+        width: 100%;
+        border: none;
+
+
+
+    }
+
+    .newsletter input[type="submit"]{
+
+        width: 100%;
+        background:#4D39BB;
+        border: none;
+        font-size: 1em;
+        text-transform: uppercase;
+        color: #fff;
+        cursor: pointer;
+        margin-bottom:5px;
+    }
+
+    .box-medium{width: 100%; margin-right: 5%;}
+
+    .sharebox{float: left; width: 100%; text-align: center; padding-top:30px; }
+
+
+    /*SHAREBOX*/
+    .sharebox{float: left; width: 100%;  text-align: center; padding-top:30px; }
+    .sharebox li{display:inline-block; margin-bottom:5px; background: #ccc; margin:20 40px; background-position: left 10px center; background-repeat: no-repeat; background-size: auto 30%;}
+    .sharebox a{ font-size:0.8em; float: left; text-decoration:none; padding: 2px 2px 25px 25px; color: #fff !important;}
+    .sharebox a:hover{text-decoration: none !important;}
+    .sharebox .count{float: right; background: rgba(0,0,0,0.5); padding: 10px 20px; color: #fff;}
+
+    .sharebox .facebook{width:80%;}
+    .sharebox .facebook a{padding:4% 0 0 40px;}
+    .sharebox .google{width:80%;}
+    .sharebox .google a{padding:4% 0 0 40px;}
+    .sharebox .twitter{width:80%;}
+    .sharebox .twitter a{padding:4% 0 0 60px;}
+
+    .profile  {width:100%; padding-left:0; float:left;margin-left: 0;}
+    .main_bus_person li{margin-right: 8px;}
+    .main_bus_person a{margin:10px 0 ;min-width: 110px; }
+    
+    .profile-img{}
+    .profile-img img{position: relative;left:20px;}
+
+
+    .fontsize1{ font-size:1.5em; font-family:'Lato';color:#fff;}
+    .fontsize6{font-size:1em; font-family:'Lato';color:#FFF;}
+    .tagline{font-family:'Lato';font-size:1em;color:#444;padding-top:2px;}
+
+
+
+
+}
+
+/*336PX*/
+@media(max-width:21em){
+
+    .profile-img img{position: relative;left: 0;}
+
+    .round{-webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 60%;}
+
+    .fontsize1{ font-size:1.5em; font-family:'Lato';color:#fff;}
+    .fontsize6{font-size:1em; font-family:'Lato';color:#FFF;}
+    .fontsize5{font-size:1.2em;color:#444;padding-top:5px;}
+    .tagline{font-family:'Lato';font-size:1em;color:#444; padding-top:2px;}
+    .main_header_logo{
+        width:100%;
+    } 
+    .contato_header_h1{
+        font-size:1.5em;
+        text-transform:uppercase;
+        color:#888;
+        margin-bottom:20px;
+    }
+
+    .newsletter{
+        padding:25px;  
+        background-color:#6a5acd;    
+        text-align: center;
+        position: relative;
+        color: #f9f;
+    }
+
+    .newsletter h1{
+        font-size: 1.5em;
+        font-weight:300;
+        margin-bottom:20px;
+    }
+
+    .newsletter form{
+        width: 100%;
+        margin: 0 auto;
+
+    }
+
+    .newsletter input[type="email"]{
+
+        width: 100%;
+        border: none;
+
+    }
+    .newsletter input[type="nome"]{
+        width: 100%;
+        border: none;
+
+    }
+
+    .newsletter input[type="submit"]{
+
+        width: 100%;
+        background:#4D39BB;
+        border: none;
+        font-size: 1em;
+        text-transform: uppercase;
+        color: #fff;
+        font-weight: bold;
+        cursor: pointer;
+        margin-bottom:5px;
+    }
+
+    .solucoes{
+        width:100%;
+        text-align:c
+    }
+
+    .fontsize1{ 
+        font-size:1.4em; 
+        font-family:'Lato';
+        color:#fff;
+    }           
+    .contato_form{
+        float:right;
+        width:100%;
+    }
+    .contato_form .medium{
+        float:left;
+        width:100%;
+    }
+
+    .form_load{
+        width:100%;
+    }
+
+    .contato_form .btn{
+       border: none;
+       background:#40309C;
+       padding: 20px 25px;
+       width: 96%;
+       text-transform: uppercase;
+       font-weight: 600;
+       font-size: 0.875em;
+       text-align: center;
+       margin: 10px;
+       cursor: pointer;
+       color: #fff; }
+
+       .main_footer{ width:100%; }
+
+   }
